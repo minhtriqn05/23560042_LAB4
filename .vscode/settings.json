@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.debug.settings.console": "integratedTerminal",
+    "java.inlayHints.parameterNames.enabled": "none",
+    "editor.stickyScroll.enabled": false,
+    "editor.wordWrap": "on",
+    "breadcrumbs.enabled": false
+}
